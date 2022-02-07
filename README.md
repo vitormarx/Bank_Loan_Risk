@@ -21,11 +21,11 @@ Link to <a href=''>credit</a> dataset
 ### Running the Project
 Firstly, you need to clone this repository as showed bellow:
 ```console
-git clone --branch main https://github.com/vitormarx/Flowers_Classification.git
+git clone --branch main https://github.com/vitormarx/Bank_Loan_Risk.git
 ```
 then,  run it on Google Colaboratory or Jupyter Nootebook. Same as Windows as Linux OS
 
-Once the download has completed, you can open the IrisLog-Classification.ipynb file and check the project steps.
+Once the download has completed, you can open the Bank-Loan-Risk.ipynb file and check the project steps.
 
 ### Model Evaluation
 The model was trained on many machine learning algorithms (Naive Bayes, Random Forest, KNN, SVM and Neural Network). The one with better performance was the neural network, as showed bellow:
