@@ -3,8 +3,12 @@ Data analysis and Machine Learning project to predict which pearson should pay a
 
 ### Technologies
 
-- **IDE**:Google Colaboratory / Jupyter Notebooks
-- **Programing Lenguage**: Python 3.8.10
+- Google Colaboratory
+- Python 3.8.10
+- Scikit Learning
+- Numpy
+- Pandas
+- Matplotlib / seaborn
 
 ### About the Dataset
 This dataset includes personal and bank information about people whos needed a loan from an especific bank and whether they payed or not the credit conceded by the bank
@@ -16,14 +20,14 @@ This dataset includes personal and bank information about people whos needed a l
     -loan	
     -default
 
-Link to <a href=''>credit</a> dataset
+Link to original <a href=''>dataset</a> 
 
 ### Running the Project
 Firstly, you need to clone this repository as showed bellow:
 ```console
 git clone --branch main https://github.com/vitormarx/Bank_Loan_Risk.git
 ```
-then,  run it on Google Colaboratory or Jupyter Nootebook. Same as Windows as Linux OS
+then,  run it on Google Colaboratory or Jupyter Nootebook. Same to Windows and Linux OS
 
 Once the download has completed, you can open the Bank-Loan-Risk.ipynb file and check the project steps.
 
