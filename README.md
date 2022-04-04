@@ -11,14 +11,8 @@ Data analysis and Machine Learning project to predict which pearson should pay a
 - Matplotlib / seaborn
 
 ### About the Dataset
-This dataset includes personal and bank information about people whos needed a loan from an especific bank and whether they payed or not the credit conceded by the bank
+This dataset includes personal and bank information about people whos needed a loan from an especific bank and whether they payed or not the credit conceded by the bank.
 
-- **features:**
-    -clientid	
-    -income	
-    -age	
-    -loan	
-    -default
 
 Link to original <a href=''>dataset</a> 
 
@@ -37,3 +31,8 @@ The model was trained on many machine learning algorithms (Naive Bayes, Random F
 - **Accuracy**: 99.8%
 
 ![screenshot](/images/confusion_RNN_matrix.jpeg)
+
+
+-*1* --> don't pay the loan
+
+-*0* --> pay the loan
