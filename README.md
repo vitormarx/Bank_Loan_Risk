@@ -33,6 +33,6 @@ The model was trained on many machine learning algorithms (Naive Bayes, Random F
 ![screenshot](/images/confusion_RNN_matrix.jpeg)
 
 
--*1* --> don't pay the loan
+-**1** --> don't pay the loan
 
--*0* --> pay the loan
+-**0** --> pay the loan
